@@ -1,1 +1,19 @@
+local codes = {	
+	
+	["15MVisits"] = {
+		["Prize"] = 250;
+		["Type"] = "Currency";
+	},
+	
+	["70KFavorites"] = {
+		["Prize"] = 250;
+		["Type"] = "Currency";
+	},
+	
+	["Valentines!"] = {
+		["Prize"] = 250;
+		["Type"] = "Currency";
+	},
+}
 
+return codes;
